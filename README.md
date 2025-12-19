@@ -11,14 +11,14 @@ cleaned_both_vaccinations.csv [CDC] \
 cleaned_cumulative_vaccinations.csv [CDC] \
 cleaned_daily_vaccinations.csv [CDC] \
 cleaned_daily_vaccinations_old.csv [CDC] \
-cumulative_vaccinations.csv [CDC] \
+cumulative_vaccinations.csv [CDC] 
 
 ### The Code Files
 **SEIQR.mlx** ― The code for the SEIQR model \
 **SEIQR_testing.mlx** ― This file is used to evaluate the MAE of the SEIQR model \
 **SIRU.mlx** ― The code for the SIRU model \
 **SIRU_testing.mlx** ― This file is used to evaluate the MAE of the SIRU model \
-**final_model.mlx** ― This is the code for our model \
+**final_model.mlx** ― This is the code for our model 
 
 
 
