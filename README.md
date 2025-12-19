@@ -5,13 +5,13 @@ This project was coded on MATLAB. The purpose of this project is to code and the
 Each .mlx file functions independently of the other files. 
 
 ### The Data Files
-**cases_per_day_2020_2023.csv** ― Daily cases in the US from 2020-2023 [CDC] \
-**cases_per_day_20200301_20210616.csv** ― Daily cases in the US from 2020-03-01 to 2021-06-16 [CDC] \
-cleaned_both_vaccinations.csv [CDC] \
-cleaned_cumulative_vaccinations.csv [CDC] \
-cleaned_daily_vaccinations.csv [CDC] \
-cleaned_daily_vaccinations_old.csv [CDC] \
-cumulative_vaccinations.csv [CDC] 
+**cases_per_day_2020_2023.csv** [CDC] \
+**cases_per_day_20200301_20210616.csv** [CDC] \
+**cleaned_both_vaccinations.csv** [CDC] \
+**cleaned_cumulative_vaccinations.csv** [CDC] \
+**cleaned_daily_vaccinations.csv** [CDC] \
+**cleaned_daily_vaccinations_old.csv** [CDC] \
+**cumulative_vaccinations.csv** [CDC] 
 
 ### The Code Files
 **SEIQR.mlx** ― The code for the SEIQR model \
