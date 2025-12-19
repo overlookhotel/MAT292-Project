@@ -20,7 +20,8 @@ Each .mlx file functions independently of the other files.
 **SIRU_testing.mlx** ― This file is used to evaluate the MAE of the SIRU model \
 **final_model.mlx** ― This is the code for our model 
 
-
+## Running the Code Files
+Create a folder 
 
 
 
