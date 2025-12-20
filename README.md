@@ -13,7 +13,11 @@ Each .mlx file functions independently of the other files.
 **SIRU_final.mlx** ― This file is used to solve SIRU and evaluate the MAE of the SIRU model \
 **final_model.mlx** ― This is the code for our model
 **daily_vaccinations.py** - Process daily vaccinations to make the date usable by MATLAB
-**num_cases.py** - Process the data to convert from unique cases into number of cases per day
+
+### Additional Code Files
+Additional code files used to process data from CDC website are in this folder. \
+This folder does not contain any code that demonstrates anything \
+but was included for completeness. Raw data sets are far too large and are not included.
 
 
 ## Running the Code Files
