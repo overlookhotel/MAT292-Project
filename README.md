@@ -6,12 +6,7 @@ Each .mlx file functions independently of the other files.
 
 ### The Data Files
 **cases_per_day_2020_2023.csv** [CDC] \
-**cases_per_day_20200301_20210616.csv** [CDC] \
-**cleaned_both_vaccinations.csv** [CDC] \
-**cleaned_cumulative_vaccinations.csv** [CDC] \
-**cleaned_daily_vaccinations.csv** [CDC] \
-**cleaned_daily_vaccinations_old.csv** [CDC] \
-**cumulative_vaccinations.csv** [CDC] 
+**cleaned_both_vaccinations.csv** [CDC] 
 
 ### The Code Files
 **SEIQR_testing.mlx** ― This file is used to solve SEIQR and evaluate the MAE of the SEIQR model \
