@@ -9,7 +9,7 @@ Each .mlx file functions independently of the other files.
 **cleaned_both_vaccinations.csv** [CDC] 
 
 ### The Code Files
-**SEIQR_testing.mlx** ― This file is used to solve SEIQR and evaluate the MAE of the SEIQR model \
+**SEIQR_final.mlx** ― This file is used to solve SEIQR and evaluate the MAE of the SEIQR model \
 **SIRU_final.mlx** ― This file is used to solve SIRU and evaluate the MAE of the SIRU model \
 **final_model.mlx** ― This is the code for our model
 **daily_vaccinations.py** - Process daily vaccinations to make the date usable by MATLAB
