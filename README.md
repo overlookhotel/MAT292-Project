@@ -14,10 +14,8 @@ Each .mlx file functions independently of the other files.
 **cumulative_vaccinations.csv** [CDC] 
 
 ### The Code Files
-**SEIQR.mlx** ― The code for the SEIQR model \
-**SEIQR_testing.mlx** ― This file is used to evaluate the MAE of the SEIQR model \
-**SIRU.mlx** ― The code for the SIRU model \
-**SIRU_testing.mlx** ― This file is used to evaluate the MAE of the SIRU model \
+**SEIQR_testing.mlx** ― This file is used to solve SEIQR and evaluate the MAE of the SEIQR model \
+**SIRU_final.mlx** ― This file is used to solve SIRU and evaluate the MAE of the SIRU model \
 **final_model.mlx** ― This is the code for our model
 **daily_vaccinations.py** - Process daily vaccinations to make the date usable by MATLAB
 **num_cases.py** - Process the data to convert from unique cases into number of cases per day
