@@ -17,7 +17,7 @@ Each .mlx file functions independently of the other files.
 
 
 ## Running the Code Files
-1. Either: Create a folder named MAT292 in MATLAB Drive and input all the files into there
+1. Either: Create a folder named MAT292 in MATLAB Drive and input all the files into there \
    Or    : Download the files and change the directories in each .mlx file correspondingly
 2. Run the each of the files, which will produce the discussed figures and values
 
